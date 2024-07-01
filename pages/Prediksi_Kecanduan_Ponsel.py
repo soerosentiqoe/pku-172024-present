@@ -6,6 +6,33 @@ from PIL import Image
 import pickle 
 from sklearn.naive_bayes import GaussianNB
 
+import base64
+
+# Function to load image and convert to base64 string
+def get_base64_image(image_path):
+    with open(image_path, "rb") as image_file:
+        base64_image = base64.b64encode(image_file.read()).decode()
+    return base64_image
+
+# Load your image
+image_path = "imgPonsel.png"  # Replace with the path to your image
+base64_image = get_base64_image(image_path)
+
+# Create a title with image and text
+html_title = f"""
+<div style="display: flex; align-items: center;">
+    <img src="data:image/png;base64,{base64_image}" style="width:50px; height:50px; margin-right:10px;">
+    <h1 style="display: inline;">Prediksi Kecanduan Ponsel</h1>
+   
+</div>
+ <span>Aplikasi berbasis Web untuk memprediksi atau mengklasifikasi seseorang terindikasi terhadap kecanduan ponsel.</span>
+"""
+
+st.set_page_config(
+    page_title="Prediksi Kecanduan HP",
+    page_icon="assets/DC.png",  # Path to your icon file
+)
+
 # Load the model 
 def input_user ():
     durasiPonsel = st.slider("Durasi (Jam)", 0, 10)
