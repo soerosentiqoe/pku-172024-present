@@ -55,7 +55,7 @@ def app():
         value_counts = df[x_axis].value_counts()
 
         # Display value counts as a bar plot in Streamlit
-        st.bar_chart(value_counts,x_label=x_axis, y_label=y_axis)
+       # st.bar_chart(value_counts,x_label=x_axis, y_label=y_axis)
         fig, ax = plt.subplots(figsize=(plot_width, plot_height))
         
         ax.bar(aggregated_df[x_axis], aggregated_df[y_axis])
