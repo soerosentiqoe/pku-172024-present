@@ -43,7 +43,8 @@ def app():
     inputan = input_user()
 
     #Menggabungkan inputan dan dataset
-    dataPonsel_raw = pd.read_csv('dataPonsel.csv')
+    dataPonsel_raw = pd.read_csv('./dataPonselnew.csv')
+    dataPonsel_raw = dataPonsel_raw.drop('Unnamed: 0', axis=1)
     dataPonsels = dataPonsel_raw.drop(columns=['kecanduan'])
     df = pd.concat([inputan, dataPonsels], axis=0)
 
@@ -58,8 +59,9 @@ def app():
 
     
 
-    load_model = pickle.load(open('modelNBC_dataPonsel.pkl', 'rb'))
-    load_model = pickle.load(open('modelRF_dataPonsel.pkl', 'rb'))
+    #load_model = pickle.load(open('./modelNBC_dataPonsel.pkl', 'rb'))
+    load_model = pickle.load(open('./modelRF_dataPonsel.pkl', 'rb'))
+    #load_model = pickle.load(open('./modelDT_dataPonsel.pkl', 'rb'))
 
 
     #code untuk predikis
