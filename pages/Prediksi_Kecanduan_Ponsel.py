@@ -22,11 +22,11 @@ def input_user ():
         'gangguanTidur' : gangguanTidur,
         'cemasPonselTertinggal' : cemasPonselTertinggal,
         'gangguanProduktivitas' : gangguanProduktivitas}
-    #data = {'durasiPonsel' : durasiPonsel,
-         #   'intensitasSosmed' : intensitasSosmed,
-         #   'gangguanTidur' : gangguanTidur,
-          #  'cemasPonselTertinggal' : cemasPonselTertinggal,
-          #  'gangguanProduktivitas' : gangguanProduktivitas}'''
+    data = {'durasiPonsel' : durasiPonsel,
+            'intensitasSosmed' : intensitasSosmed,
+            'gangguanTidur' : gangguanTidur,
+            'cemasPonselTertinggal' : cemasPonselTertinggal,
+           'gangguanProduktivitas' : gangguanProduktivitas}
     fitur = pd.DataFrame(data, index=[0])
     return fitur
 
@@ -43,8 +43,8 @@ def app():
     inputan = input_user()
 
     #Menggabungkan inputan dan dataset
-    dataPonsel_raw = pd.read_csv('./dataPonselnew.csv')
-    dataPonsel_raw = dataPonsel_raw.drop('Unnamed: 0', axis=1)
+    dataPonsel_raw = pd.read_csv('./dataPonsel.csv')
+    #dataPonsel_raw = dataPonsel_raw.drop('Unnamed: 0', axis=1)
     dataPonsels = dataPonsel_raw.drop(columns=['kecanduan'])
     df = pd.concat([inputan, dataPonsels], axis=0)
 
@@ -59,8 +59,8 @@ def app():
 
     
 
-    #load_model = pickle.load(open('./modelNBC_dataPonsel.pkl', 'rb'))
-    load_model = pickle.load(open('./modelRF_dataPonsel.pkl', 'rb'))
+    load_model = pickle.load(open('./modelNBC_dataPonsel.pkl', 'rb'))
+    #load_model = pickle.load(open('./modelRF_dataPonsel.pkl', 'rb'))
     #load_model = pickle.load(open('./modelDT_dataPonsel.pkl', 'rb'))
 
 
@@ -79,12 +79,14 @@ def app():
             st.subheader('Probabilitas Hasil Prediksi')
             st.write(prediksi_prob)
             result = 'Waspada! Anda Cenderung Kecanduan Ponsel'
+            st.error(result)
         else:
             st.subheader('Probabilitas Hasil Prediksi')
             st.write(prediksi_prob)
             result = 'Selamat! Anda Tidak Cenderung Kecanduan Ponsel'
+            st.success(result)
 
-        st.success(result)
+        
 
 app()
 
