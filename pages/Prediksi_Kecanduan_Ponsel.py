@@ -22,11 +22,11 @@ def input_user ():
         'gangguanTidur' : gangguanTidur,
         'cemasPonselTertinggal' : cemasPonselTertinggal,
         'gangguanProduktivitas' : gangguanProduktivitas}
-    '''data = {'durasiPonsel' : durasiPonsel,
-            'intensitasSosmed' : intensitasSosmed,
-            'gangguanTidur' : gangguanTidur,
-            'cemasPonselTertinggal' : cemasPonselTertinggal,
-            'gangguanProduktivitas' : gangguanProduktivitas}'''
+    #data = {'durasiPonsel' : durasiPonsel,
+         #   'intensitasSosmed' : intensitasSosmed,
+         #   'gangguanTidur' : gangguanTidur,
+          #  'cemasPonselTertinggal' : cemasPonselTertinggal,
+          #  'gangguanProduktivitas' : gangguanProduktivitas}'''
     fitur = pd.DataFrame(data, index=[0])
     return fitur
 
