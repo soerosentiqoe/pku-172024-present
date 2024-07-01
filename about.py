@@ -1,7 +1,7 @@
 import streamlit as st
 
 def app():
-    #st.title('Implementasi Deployment Model untuk Aplikasi Kecanduan Menggunakan Ponsel')
+    st.title('Tentang Kecanduan Ponsel')
 
     st.write("""
              
