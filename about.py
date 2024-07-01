@@ -1,7 +1,7 @@
 import streamlit as st
 
 def app():
-    st.title('About the California Housing Dataset')
+    st.title('Tentang Kecanduan Ponsel')
 
     st.write("""
     Model ini merupakan salah satu prototype untuk mengukur, memprediksi dan mengklasifikasi apakah seseorang terindikasi kecanduan gadget atau tidak.
