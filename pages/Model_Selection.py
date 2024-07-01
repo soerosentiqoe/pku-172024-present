@@ -1,5 +1,9 @@
 import streamlit as st
-
+import pandas as pd
+df=pd.read_csv('./dataponselnew.csv')
+x=pd.read_csv('./assets/x.csv')
+df = df.drop('Unnamed: 0', axis=1)
+x = x.drop('Unnamed: 0', axis=1)
 def app():
     st.title("Model Selection and Performance")
 
@@ -11,15 +15,17 @@ def app():
     **1. Data Preparation:**
 
     * **Loading:**  Import dataset dataponselnew.csv.
-    * **Exploration (EDA):** Melakukan analisa terhadap feature yang tersedia.**
+    * **Exploration (EDA):** Melakukan analisa terhadap feature yang tersedia.** """)
              
 
-    **2. One Hot Encoding:**
+    st.write("""**2. One Hot Encoding:**
 
-    * mengubah kategorikal column.
+    * mengubah kategorikal column.""")
+    st.dataframe(df.head())
+    st.write("menjadi")
+    st.dataframe(x.head())
     
-    
-    **3. Train-Test Split:**
+    st.write(""" **3. Train-Test Split:**
 
     * Melakukan split dataset untuk **training set** (80%) dan **testing set** (20%).
     
