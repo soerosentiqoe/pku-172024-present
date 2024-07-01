@@ -1,0 +1,512 @@
+,gender,jenjangPekerjaan,durasiPonsel,intensitasSosmed,gangguanTidur,cemasPonselTertinggal,gangguanProduktivitas,kecanduan
+0,Laki laki,Mahasiswa,6,Tinggi,Sering,Terkadang,Ya,Ya
+1,Perempuan,Bekerja,8,Tinggi,Sering,Sering,Ya,Ya
+2,Laki laki,Mahasiswa,10,Tinggi,Sering,Sering,Ya,Ya
+3,Perempuan,Bekerja,7,Sedang,Sering,Terkadang,Ya,Ya
+4,Laki laki,Pelajar,5,Rendah,Tidak,Tidak,Tidak,Tidak
+5,Perempuan,Pelajar,8,Sedang,Sering,Sering,Ya,Ya
+6,Perempuan,Mahasiswa,9,Tinggi,Sering,Sering,Ya,Ya
+7,Laki laki,Bekerja,7,Sedang,Sering,Terkadang,Ya,Ya
+8,Perempuan,Mahasiswa,9,Tinggi,Sering,Sering,Ya,Ya
+9,Laki laki,Pelajar,7,Tinggi,Terkadang,Sering,Ya,Ya
+10,Perempuan,Mahasiswa,10,Tinggi,Sering,Sering,Ya,Ya
+11,Perempuan,Bekerja,2,Tinggi,Sering,Terkadang,Ya,Tidak
+12,Perempuan,Bekerja,13,Tinggi,Sering,Sering,Ya,Ya
+13,Perempuan,Bekerja,5,Rendah,Sering,Terkadang,Ya,Tidak
+14,Perempuan,Bekerja,13,Tinggi,Terkadang,Sering,Ya,Ya
+15,Laki laki,Mahasiswa,5,Tinggi,Sering,Sering,Ya,Ya
+16,Perempuan,Bekerja,1,Tinggi,Sering,Sering,Ya,Ya
+17,Laki laki,Pelajar,3,Tinggi,Sering,Tidak,Ya,Ya
+18,Perempuan,Pelajar,4,Tinggi,Sering,Terkadang,Ya,Ya
+19,Perempuan,Bekerja,8,Rendah,Sering,Sering,Ya,Ya
+20,Laki laki,Bekerja,8,Tinggi,Sering,Sering,Ya,Ya
+21,Perempuan,Pelajar,2,Tinggi,Sering,Tidak,Ya,Ya
+22,Laki laki,Pelajar,10,Tinggi,Sering,Terkadang,Ya,Ya
+23,Perempuan,Mahasiswa,6,Sedang,Sering,Tidak,Ya,Ya
+24,Perempuan,Mahasiswa,13,Tinggi,Terkadang,Sering,Ya,Ya
+25,Perempuan,Mahasiswa,10,Tinggi,Sering,Sering,Ya,Ya
+26,Perempuan,Bekerja,9,Sedang,Sering,Sering,Ya,Ya
+27,Perempuan,Bekerja,1,Tinggi,Sering,Sering,Ya,Ya
+28,Laki laki,Mahasiswa,5,Sedang,Sering,Sering,Ya,Ya
+29,Perempuan,Bekerja,13,Tinggi,Terkadang,Sering,Ya,Ya
+30,Laki laki,Bekerja,1,Rendah,Sering,Terkadang,Ya,Ya
+31,Laki laki,Pelajar,6,Tinggi,Sering,Terkadang,Ya,Ya
+32,Perempuan,Pelajar,6,Tinggi,Sering,Sering,Ya,Ya
+33,Laki laki,Pelajar,14,Rendah,Terkadang,Terkadang,Ya,Tidak
+34,Laki laki,Mahasiswa,9,Rendah,Sering,Terkadang,Tidak,Ya
+35,Perempuan,Pelajar,1,Sedang,Sering,Sering,Ya,Ya
+36,Laki laki,Mahasiswa,7,Sedang,Sering,Tidak,Ya,Ya
+37,Perempuan,Mahasiswa,4,Tinggi,Terkadang,Sering,Ya,Ya
+38,Laki laki,Mahasiswa,1,Tinggi,Sering,Sering,Ya,Ya
+39,Perempuan,Mahasiswa,4,Sedang,Sering,Sering,Ya,Ya
+40,Laki laki,Pelajar,10,Sedang,Sering,Terkadang,Ya,Ya
+41,Perempuan,Mahasiswa,13,Tinggi,Sering,Sering,Ya,Ya
+42,Perempuan,Mahasiswa,3,Tinggi,Sering,Sering,Tidak,Ya
+43,Laki laki,Mahasiswa,2,Rendah,Terkadang,Sering,Ya,Ya
+44,Perempuan,Pelajar,6,Tinggi,Sering,Sering,Ya,Ya
+45,Perempuan,Mahasiswa,6,Tinggi,Sering,Tidak,Ya,Ya
+46,Perempuan,Mahasiswa,6,Tinggi,Sering,Sering,Ya,Ya
+47,Laki laki,Bekerja,12,Sedang,Terkadang,Terkadang,Ya,Ya
+48,Perempuan,Mahasiswa,4,Tinggi,Sering,Sering,Ya,Ya
+49,Laki laki,Pelajar,12,Tinggi,Sering,Sering,Ya,Ya
+50,Laki laki,Mahasiswa,3,Tinggi,Terkadang,Sering,Ya,Ya
+51,Laki laki,Bekerja,3,Tinggi,Sering,Sering,Ya,Tidak
+52,Perempuan,Mahasiswa,3,Tinggi,Sering,Sering,Ya,Ya
+53,Perempuan,Mahasiswa,14,Sedang,Sering,Sering,Tidak,Ya
+54,Laki laki,Pelajar,12,Tinggi,Sering,Sering,Ya,Ya
+55,Perempuan,Bekerja,10,Rendah,Sering,Sering,Ya,Ya
+56,Perempuan,Bekerja,12,Sedang,Sering,Sering,Ya,Ya
+57,Laki laki,Pelajar,5,Tinggi,Sering,Terkadang,Ya,Ya
+58,Laki laki,Mahasiswa,5,Tinggi,Sering,Sering,Ya,Ya
+59,Perempuan,Mahasiswa,7,Tinggi,Sering,Sering,Ya,Ya
+60,Laki laki,Mahasiswa,7,Sedang,Sering,Sering,Ya,Ya
+61,Perempuan,Mahasiswa,6,Tinggi,Sering,Sering,Ya,Ya
+62,Laki laki,Mahasiswa,9,Tinggi,Sering,Sering,Ya,Ya
+63,Perempuan,Pelajar,3,Tinggi,Sering,Sering,Ya,Ya
+64,Perempuan,Mahasiswa,13,Rendah,Sering,Sering,Ya,Ya
+65,Perempuan,Pelajar,6,Tinggi,Sering,Sering,Ya,Ya
+66,Laki laki,Mahasiswa,5,Sedang,Sering,Tidak,Ya,Ya
+67,Laki laki,Pelajar,8,Tinggi,Sering,Terkadang,Ya,Ya
+68,Laki laki,Pelajar,11,Rendah,Tidak,Sering,Ya,Ya
+69,Perempuan,Bekerja,3,Sedang,Terkadang,Terkadang,Ya,Tidak
+70,Laki laki,Mahasiswa,5,Tinggi,Sering,Sering,Ya,Ya
+71,Laki laki,Bekerja,4,Tinggi,Sering,Terkadang,Tidak,Ya
+72,Laki laki,Mahasiswa,11,Tinggi,Terkadang,Sering,Ya,Tidak
+73,Perempuan,Pelajar,12,Tinggi,Sering,Tidak,Ya,Ya
+74,Perempuan,Mahasiswa,13,Sedang,Sering,Sering,Ya,Ya
+75,Perempuan,Mahasiswa,1,Tinggi,Sering,Sering,Ya,Ya
+76,Laki laki,Mahasiswa,4,Tinggi,Sering,Sering,Ya,Tidak
+77,Laki laki,Mahasiswa,5,Sedang,Tidak,Sering,Ya,Ya
+78,Perempuan,Pelajar,10,Sedang,Sering,Terkadang,Ya,Ya
+79,Laki laki,Mahasiswa,12,Rendah,Terkadang,Sering,Ya,Ya
+80,Perempuan,Pelajar,9,Tinggi,Sering,Sering,Ya,Ya
+81,Perempuan,Mahasiswa,12,Tinggi,Terkadang,Terkadang,Ya,Ya
+82,Perempuan,Mahasiswa,12,Tinggi,Terkadang,Sering,Ya,Ya
+83,Laki laki,Mahasiswa,1,Sedang,Sering,Sering,Ya,Tidak
+84,Laki laki,Mahasiswa,9,Sedang,Sering,Sering,Ya,Ya
+85,Perempuan,Pelajar,12,Tinggi,Terkadang,Terkadang,Ya,Ya
+86,Perempuan,Mahasiswa,14,Sedang,Tidak,Sering,Ya,Ya
+87,Laki laki,Mahasiswa,7,Sedang,Sering,Sering,Tidak,Ya
+88,Perempuan,Mahasiswa,12,Tinggi,Sering,Sering,Ya,Ya
+89,Laki laki,Pelajar,11,Tinggi,Sering,Sering,Ya,Tidak
+90,Perempuan,Mahasiswa,8,Tinggi,Sering,Terkadang,Ya,Ya
+91,Perempuan,Bekerja,11,Tinggi,Sering,Tidak,Ya,Tidak
+92,Perempuan,Mahasiswa,4,Tinggi,Sering,Terkadang,Ya,Tidak
+93,Laki laki,Bekerja,3,Tinggi,Sering,Terkadang,Ya,Tidak
+94,Perempuan,Mahasiswa,5,Tinggi,Sering,Sering,Ya,Tidak
+95,Perempuan,Mahasiswa,12,Tinggi,Sering,Terkadang,Ya,Ya
+96,Perempuan,Bekerja,8,Tinggi,Sering,Terkadang,Ya,Ya
+97,Laki laki,Pelajar,12,Tinggi,Terkadang,Tidak,Ya,Ya
+98,Laki laki,Pelajar,14,Sedang,Sering,Terkadang,Ya,Ya
+99,Perempuan,Pelajar,5,Tinggi,Terkadang,Sering,Tidak,Ya
+100,Laki laki,Pelajar,1,Tinggi,Sering,Sering,Ya,Ya
+101,Laki laki,Pelajar,7,Tinggi,Sering,Sering,Ya,Ya
+102,Laki laki,Mahasiswa,7,Tinggi,Sering,Terkadang,Ya,Ya
+103,Perempuan,Pelajar,3,Tinggi,Sering,Tidak,Ya,Ya
+104,Laki laki,Mahasiswa,11,Tinggi,Terkadang,Terkadang,Ya,Ya
+105,Laki laki,Bekerja,2,Tinggi,Sering,Sering,Ya,Ya
+106,Perempuan,Mahasiswa,1,Rendah,Sering,Terkadang,Ya,Ya
+107,Laki laki,Mahasiswa,4,Sedang,Terkadang,Sering,Ya,Ya
+108,Laki laki,Mahasiswa,3,Sedang,Terkadang,Sering,Ya,Ya
+109,Laki laki,Mahasiswa,12,Tinggi,Sering,Terkadang,Ya,Ya
+110,Perempuan,Pelajar,7,Sedang,Sering,Sering,Ya,Ya
+111,Perempuan,Bekerja,13,Sedang,Sering,Sering,Ya,Ya
+112,Laki laki,Bekerja,3,Rendah,Sering,Terkadang,Ya,Ya
+113,Laki laki,Pelajar,14,Tinggi,Terkadang,Sering,Ya,Ya
+114,Laki laki,Bekerja,6,Tinggi,Sering,Sering,Ya,Ya
+115,Perempuan,Pelajar,14,Tinggi,Sering,Sering,Ya,Ya
+116,Laki laki,Bekerja,11,Tinggi,Sering,Sering,Ya,Ya
+117,Perempuan,Bekerja,14,Sedang,Sering,Terkadang,Ya,Ya
+118,Laki laki,Mahasiswa,9,Sedang,Sering,Sering,Ya,Tidak
+119,Laki laki,Pelajar,2,Tinggi,Sering,Terkadang,Ya,Ya
+120,Perempuan,Mahasiswa,5,Sedang,Terkadang,Terkadang,Ya,Ya
+121,Laki laki,Mahasiswa,2,Tinggi,Sering,Sering,Ya,Ya
+122,Perempuan,Pelajar,5,Tinggi,Sering,Tidak,Tidak,Ya
+123,Perempuan,Pelajar,3,Tinggi,Sering,Sering,Ya,Ya
+124,Perempuan,Bekerja,12,Tinggi,Sering,Terkadang,Ya,Ya
+125,Laki laki,Mahasiswa,11,Sedang,Tidak,Sering,Ya,Ya
+126,Perempuan,Mahasiswa,5,Rendah,Sering,Sering,Ya,Ya
+127,Perempuan,Mahasiswa,5,Sedang,Sering,Sering,Ya,Ya
+128,Perempuan,Mahasiswa,8,Rendah,Sering,Sering,Ya,Ya
+129,Perempuan,Bekerja,5,Tinggi,Sering,Terkadang,Ya,Ya
+130,Laki laki,Bekerja,4,Rendah,Sering,Sering,Ya,Ya
+131,Laki laki,Pelajar,2,Tinggi,Sering,Sering,Ya,Ya
+132,Perempuan,Bekerja,10,Sedang,Sering,Tidak,Ya,Ya
+133,Laki laki,Bekerja,4,Tinggi,Tidak,Terkadang,Ya,Ya
+134,Laki laki,Mahasiswa,11,Tinggi,Sering,Sering,Ya,Ya
+135,Laki laki,Pelajar,2,Tinggi,Tidak,Sering,Ya,Ya
+136,Perempuan,Pelajar,1,Sedang,Sering,Terkadang,Ya,Tidak
+137,Perempuan,Mahasiswa,14,Rendah,Tidak,Sering,Ya,Ya
+138,Perempuan,Pelajar,6,Tinggi,Sering,Sering,Ya,Ya
+139,Laki laki,Mahasiswa,7,Tinggi,Sering,Terkadang,Ya,Ya
+140,Laki laki,Mahasiswa,9,Sedang,Sering,Sering,Ya,Ya
+141,Perempuan,Bekerja,13,Tinggi,Sering,Terkadang,Ya,Ya
+142,Perempuan,Pelajar,5,Sedang,Sering,Sering,Ya,Ya
+143,Perempuan,Mahasiswa,14,Tinggi,Sering,Sering,Ya,Ya
+144,Perempuan,Mahasiswa,13,Tinggi,Sering,Sering,Ya,Ya
+145,Perempuan,Mahasiswa,1,Tinggi,Sering,Sering,Tidak,Ya
+146,Perempuan,Bekerja,13,Tinggi,Sering,Sering,Ya,Tidak
+147,Perempuan,Pelajar,5,Tinggi,Sering,Sering,Ya,Ya
+148,Perempuan,Bekerja,9,Tinggi,Sering,Sering,Ya,Ya
+149,Perempuan,Mahasiswa,10,Tinggi,Tidak,Sering,Ya,Ya
+150,Laki laki,Mahasiswa,13,Rendah,Sering,Sering,Ya,Ya
+151,Perempuan,Pelajar,4,Sedang,Sering,Sering,Ya,Ya
+152,Perempuan,Mahasiswa,4,Sedang,Terkadang,Sering,Ya,Ya
+153,Perempuan,Mahasiswa,8,Tinggi,Sering,Sering,Ya,Tidak
+154,Perempuan,Bekerja,14,Sedang,Sering,Sering,Ya,Ya
+155,Laki laki,Mahasiswa,10,Tinggi,Sering,Terkadang,Ya,Ya
+156,Perempuan,Mahasiswa,9,Tinggi,Tidak,Sering,Ya,Tidak
+157,Perempuan,Pelajar,9,Tinggi,Sering,Terkadang,Ya,Ya
+158,Perempuan,Bekerja,8,Tinggi,Sering,Tidak,Ya,Tidak
+159,Perempuan,Pelajar,5,Tinggi,Sering,Sering,Ya,Ya
+160,Perempuan,Mahasiswa,1,Tinggi,Tidak,Terkadang,Ya,Ya
+161,Laki laki,Pelajar,13,Sedang,Sering,Sering,Ya,Ya
+162,Laki laki,Bekerja,7,Tinggi,Sering,Terkadang,Tidak,Ya
+163,Perempuan,Mahasiswa,14,Sedang,Terkadang,Sering,Ya,Ya
+164,Perempuan,Bekerja,2,Tinggi,Sering,Sering,Ya,Ya
+165,Perempuan,Mahasiswa,7,Tinggi,Sering,Sering,Ya,Ya
+166,Laki laki,Bekerja,5,Tinggi,Sering,Sering,Tidak,Tidak
+167,Laki laki,Mahasiswa,13,Sedang,Sering,Sering,Tidak,Tidak
+168,Laki laki,Bekerja,7,Tinggi,Sering,Sering,Ya,Ya
+169,Laki laki,Mahasiswa,14,Sedang,Terkadang,Tidak,Ya,Ya
+170,Perempuan,Bekerja,11,Tinggi,Sering,Tidak,Ya,Ya
+171,Perempuan,Bekerja,10,Tinggi,Sering,Sering,Ya,Ya
+172,Perempuan,Pelajar,9,Tinggi,Sering,Sering,Ya,Ya
+173,Perempuan,Bekerja,8,Sedang,Sering,Sering,Ya,Ya
+174,Perempuan,Bekerja,1,Tinggi,Sering,Terkadang,Ya,Ya
+175,Perempuan,Mahasiswa,1,Tinggi,Sering,Sering,Ya,Ya
+176,Perempuan,Pelajar,8,Tinggi,Sering,Sering,Ya,Ya
+177,Perempuan,Pelajar,13,Tinggi,Sering,Sering,Ya,Ya
+178,Perempuan,Bekerja,13,Tinggi,Sering,Sering,Ya,Ya
+179,Perempuan,Pelajar,5,Sedang,Sering,Sering,Ya,Ya
+180,Perempuan,Mahasiswa,3,Tinggi,Sering,Sering,Ya,Ya
+181,Laki laki,Mahasiswa,7,Tinggi,Terkadang,Sering,Ya,Ya
+182,Laki laki,Bekerja,7,Tinggi,Sering,Terkadang,Ya,Ya
+183,Laki laki,Mahasiswa,7,Tinggi,Sering,Sering,Ya,Ya
+184,Perempuan,Pelajar,3,Sedang,Sering,Sering,Tidak,Ya
+185,Laki laki,Pelajar,7,Rendah,Sering,Sering,Ya,Ya
+186,Laki laki,Mahasiswa,7,Tinggi,Sering,Sering,Ya,Ya
+187,Perempuan,Mahasiswa,10,Tinggi,Sering,Sering,Ya,Ya
+188,Laki laki,Mahasiswa,11,Tinggi,Sering,Sering,Ya,Ya
+189,Laki laki,Mahasiswa,9,Tinggi,Sering,Terkadang,Ya,Ya
+190,Laki laki,Mahasiswa,7,Sedang,Sering,Sering,Ya,Ya
+191,Laki laki,Mahasiswa,14,Rendah,Terkadang,Tidak,Ya,Ya
+192,Perempuan,Bekerja,13,Tinggi,Tidak,Tidak,Ya,Ya
+193,Laki laki,Mahasiswa,10,Rendah,Sering,Terkadang,Ya,Ya
+194,Perempuan,Pelajar,1,Rendah,Tidak,Sering,Ya,Ya
+195,Perempuan,Bekerja,9,Tinggi,Sering,Sering,Ya,Ya
+196,Laki laki,Pelajar,7,Tinggi,Sering,Sering,Ya,Ya
+197,Perempuan,Pelajar,14,Rendah,Tidak,Terkadang,Ya,Ya
+198,Perempuan,Bekerja,14,Tinggi,Sering,Terkadang,Ya,Ya
+199,Perempuan,Pelajar,12,Sedang,Terkadang,Sering,Ya,Ya
+200,Laki laki,Bekerja,9,Tinggi,Sering,Sering,Ya,Ya
+201,Perempuan,Bekerja,9,Rendah,Sering,Sering,Ya,Ya
+202,Laki laki,Pelajar,8,Tinggi,Sering,Sering,Ya,Ya
+203,Laki laki,Mahasiswa,5,Tinggi,Sering,Sering,Tidak,Ya
+204,Laki laki,Pelajar,9,Tinggi,Sering,Terkadang,Ya,Ya
+205,Laki laki,Bekerja,12,Tinggi,Sering,Tidak,Ya,Ya
+206,Laki laki,Pelajar,1,Tinggi,Tidak,Terkadang,Ya,Ya
+207,Laki laki,Mahasiswa,3,Tinggi,Sering,Terkadang,Ya,Ya
+208,Laki laki,Bekerja,13,Tinggi,Sering,Terkadang,Tidak,Ya
+209,Perempuan,Mahasiswa,1,Sedang,Sering,Terkadang,Ya,Ya
+210,Laki laki,Mahasiswa,14,Sedang,Sering,Terkadang,Ya,Ya
+211,Perempuan,Mahasiswa,6,Sedang,Sering,Sering,Ya,Ya
+212,Perempuan,Bekerja,11,Tinggi,Sering,Sering,Ya,Tidak
+213,Perempuan,Mahasiswa,3,Tinggi,Sering,Terkadang,Ya,Ya
+214,Laki laki,Bekerja,10,Tinggi,Sering,Terkadang,Tidak,Tidak
+215,Laki laki,Pelajar,2,Rendah,Sering,Sering,Ya,Ya
+216,Perempuan,Pelajar,11,Tinggi,Sering,Terkadang,Ya,Ya
+217,Laki laki,Pelajar,10,Tinggi,Terkadang,Tidak,Ya,Tidak
+218,Laki laki,Mahasiswa,3,Tinggi,Sering,Sering,Ya,Tidak
+219,Perempuan,Bekerja,2,Tinggi,Sering,Sering,Ya,Ya
+220,Laki laki,Pelajar,8,Tinggi,Sering,Sering,Ya,Ya
+221,Laki laki,Mahasiswa,2,Sedang,Sering,Sering,Ya,Ya
+222,Perempuan,Bekerja,1,Tinggi,Sering,Sering,Ya,Ya
+223,Laki laki,Mahasiswa,1,Tinggi,Sering,Sering,Ya,Ya
+224,Laki laki,Mahasiswa,5,Tinggi,Sering,Sering,Ya,Ya
+225,Perempuan,Mahasiswa,7,Tinggi,Sering,Tidak,Ya,Ya
+226,Perempuan,Bekerja,10,Tinggi,Sering,Sering,Ya,Ya
+227,Laki laki,Pelajar,4,Tinggi,Sering,Sering,Tidak,Ya
+228,Laki laki,Bekerja,11,Tinggi,Sering,Sering,Ya,Ya
+229,Perempuan,Mahasiswa,12,Tinggi,Tidak,Terkadang,Ya,Ya
+230,Perempuan,Mahasiswa,8,Tinggi,Sering,Sering,Ya,Ya
+231,Laki laki,Bekerja,8,Tinggi,Tidak,Terkadang,Ya,Ya
+232,Laki laki,Mahasiswa,8,Tinggi,Sering,Sering,Ya,Ya
+233,Perempuan,Mahasiswa,12,Tinggi,Sering,Terkadang,Ya,Ya
+234,Perempuan,Mahasiswa,6,Sedang,Sering,Sering,Ya,Ya
+235,Perempuan,Bekerja,7,Tinggi,Terkadang,Sering,Ya,Tidak
+236,Laki laki,Pelajar,13,Tinggi,Sering,Sering,Ya,Ya
+237,Laki laki,Bekerja,12,Sedang,Sering,Sering,Ya,Ya
+238,Perempuan,Mahasiswa,3,Rendah,Sering,Sering,Ya,Tidak
+239,Laki laki,Pelajar,10,Tinggi,Sering,Sering,Ya,Ya
+240,Perempuan,Pelajar,7,Tinggi,Sering,Sering,Ya,Ya
+241,Perempuan,Pelajar,10,Tinggi,Sering,Terkadang,Tidak,Ya
+242,Perempuan,Bekerja,13,Tinggi,Sering,Sering,Ya,Ya
+243,Laki laki,Bekerja,3,Tinggi,Terkadang,Sering,Ya,Ya
+244,Perempuan,Pelajar,9,Rendah,Sering,Sering,Ya,Ya
+245,Perempuan,Bekerja,12,Rendah,Sering,Terkadang,Ya,Ya
+246,Perempuan,Bekerja,12,Sedang,Tidak,Sering,Tidak,Ya
+247,Laki laki,Pelajar,4,Tinggi,Sering,Sering,Ya,Ya
+248,Perempuan,Mahasiswa,13,Tinggi,Sering,Sering,Tidak,Ya
+249,Perempuan,Mahasiswa,8,Tinggi,Terkadang,Sering,Ya,Ya
+250,Perempuan,Pelajar,5,Tinggi,Tidak,Sering,Ya,Ya
+251,Laki laki,Bekerja,7,Tinggi,Sering,Terkadang,Ya,Ya
+252,Perempuan,Mahasiswa,12,Tinggi,Sering,Sering,Ya,Ya
+253,Laki laki,Bekerja,12,Rendah,Terkadang,Terkadang,Ya,Ya
+254,Perempuan,Pelajar,7,Tinggi,Terkadang,Sering,Ya,Ya
+255,Perempuan,Mahasiswa,7,Tinggi,Sering,Sering,Ya,Ya
+256,Perempuan,Bekerja,11,Tinggi,Sering,Sering,Ya,Ya
+257,Perempuan,Bekerja,9,Tinggi,Sering,Sering,Ya,Ya
+258,Perempuan,Mahasiswa,1,Sedang,Tidak,Sering,Ya,Ya
+259,Perempuan,Bekerja,8,Sedang,Sering,Sering,Ya,Ya
+260,Perempuan,Pelajar,10,Sedang,Sering,Sering,Ya,Ya
+261,Laki laki,Mahasiswa,12,Tinggi,Sering,Sering,Ya,Ya
+262,Perempuan,Bekerja,6,Tinggi,Sering,Sering,Ya,Ya
+263,Laki laki,Mahasiswa,13,Rendah,Sering,Terkadang,Ya,Tidak
+264,Perempuan,Bekerja,3,Sedang,Sering,Sering,Ya,Ya
+265,Perempuan,Bekerja,8,Rendah,Terkadang,Sering,Ya,Ya
+266,Laki laki,Mahasiswa,2,Sedang,Sering,Sering,Ya,Ya
+267,Perempuan,Pelajar,9,Tinggi,Sering,Sering,Ya,Ya
+268,Laki laki,Mahasiswa,5,Tinggi,Sering,Sering,Ya,Ya
+269,Laki laki,Pelajar,9,Tinggi,Sering,Terkadang,Ya,Ya
+270,Laki laki,Mahasiswa,9,Tinggi,Sering,Terkadang,Ya,Tidak
+271,Laki laki,Pelajar,14,Tinggi,Sering,Terkadang,Ya,Ya
+272,Laki laki,Mahasiswa,3,Tinggi,Sering,Terkadang,Ya,Ya
+273,Perempuan,Bekerja,8,Tinggi,Tidak,Tidak,Ya,Ya
+274,Laki laki,Mahasiswa,13,Tinggi,Sering,Sering,Ya,Ya
+275,Laki laki,Mahasiswa,14,Tinggi,Sering,Sering,Ya,Ya
+276,Perempuan,Pelajar,5,Sedang,Sering,Sering,Ya,Ya
+277,Perempuan,Bekerja,9,Sedang,Tidak,Sering,Ya,Ya
+278,Laki laki,Bekerja,6,Tinggi,Sering,Sering,Ya,Ya
+279,Laki laki,Bekerja,1,Tinggi,Sering,Sering,Ya,Ya
+280,Perempuan,Mahasiswa,4,Sedang,Sering,Sering,Ya,Ya
+281,Laki laki,Mahasiswa,4,Tinggi,Sering,Sering,Ya,Ya
+282,Laki laki,Bekerja,6,Tinggi,Sering,Sering,Ya,Ya
+283,Perempuan,Pelajar,4,Tinggi,Sering,Sering,Ya,Ya
+284,Perempuan,Bekerja,11,Tinggi,Sering,Sering,Ya,Ya
+285,Laki laki,Mahasiswa,5,Sedang,Sering,Terkadang,Ya,Ya
+286,Perempuan,Mahasiswa,13,Tinggi,Tidak,Sering,Ya,Ya
+287,Laki laki,Pelajar,3,Tinggi,Sering,Terkadang,Ya,Tidak
+288,Laki laki,Bekerja,5,Tinggi,Sering,Tidak,Tidak,Ya
+289,Perempuan,Mahasiswa,13,Rendah,Sering,Terkadang,Ya,Ya
+290,Perempuan,Pelajar,12,Sedang,Sering,Sering,Ya,Ya
+291,Perempuan,Bekerja,11,Sedang,Sering,Sering,Tidak,Ya
+292,Laki laki,Mahasiswa,12,Tinggi,Sering,Sering,Ya,Ya
+293,Perempuan,Bekerja,13,Sedang,Sering,Terkadang,Ya,Tidak
+294,Perempuan,Pelajar,5,Rendah,Sering,Sering,Ya,Ya
+295,Laki laki,Bekerja,7,Tinggi,Sering,Sering,Ya,Ya
+296,Perempuan,Bekerja,14,Tinggi,Sering,Sering,Ya,Ya
+297,Laki laki,Mahasiswa,5,Tinggi,Tidak,Sering,Ya,Ya
+298,Laki laki,Bekerja,4,Tinggi,Tidak,Sering,Ya,Ya
+299,Perempuan,Pelajar,11,Sedang,Sering,Terkadang,Tidak,Tidak
+300,Laki laki,Pelajar,9,Tinggi,Sering,Sering,Ya,Ya
+301,Laki laki,Pelajar,8,Tinggi,Sering,Sering,Ya,Ya
+302,Laki laki,Mahasiswa,10,Tinggi,Sering,Sering,Ya,Ya
+303,Laki laki,Bekerja,9,Tinggi,Sering,Sering,Tidak,Ya
+304,Laki laki,Pelajar,11,Tinggi,Sering,Tidak,Ya,Ya
+305,Perempuan,Bekerja,6,Rendah,Sering,Sering,Ya,Ya
+306,Laki laki,Mahasiswa,9,Sedang,Sering,Sering,Ya,Ya
+307,Perempuan,Pelajar,3,Tinggi,Terkadang,Terkadang,Ya,Ya
+308,Laki laki,Pelajar,6,Tinggi,Sering,Sering,Ya,Ya
+309,Laki laki,Mahasiswa,12,Rendah,Sering,Sering,Ya,Ya
+310,Laki laki,Pelajar,5,Tinggi,Sering,Sering,Ya,Ya
+311,Laki laki,Bekerja,12,Tinggi,Sering,Terkadang,Ya,Ya
+312,Perempuan,Mahasiswa,2,Sedang,Sering,Sering,Ya,Ya
+313,Perempuan,Mahasiswa,4,Sedang,Sering,Sering,Ya,Ya
+314,Perempuan,Mahasiswa,3,Tinggi,Sering,Sering,Ya,Ya
+315,Perempuan,Mahasiswa,2,Sedang,Sering,Sering,Ya,Ya
+316,Laki laki,Pelajar,12,Rendah,Sering,Sering,Ya,Ya
+317,Perempuan,Mahasiswa,2,Sedang,Tidak,Sering,Tidak,Ya
+318,Perempuan,Mahasiswa,14,Tinggi,Tidak,Sering,Ya,Ya
+319,Perempuan,Pelajar,9,Sedang,Sering,Terkadang,Ya,Ya
+320,Laki laki,Pelajar,14,Sedang,Sering,Sering,Tidak,Ya
+321,Perempuan,Mahasiswa,12,Rendah,Tidak,Terkadang,Ya,Ya
+322,Perempuan,Mahasiswa,8,Tinggi,Sering,Terkadang,Ya,Ya
+323,Laki laki,Mahasiswa,14,Tinggi,Sering,Sering,Tidak,Ya
+324,Perempuan,Bekerja,5,Rendah,Terkadang,Terkadang,Ya,Ya
+325,Perempuan,Pelajar,2,Sedang,Sering,Sering,Ya,Ya
+326,Perempuan,Pelajar,8,Sedang,Sering,Sering,Ya,Tidak
+327,Laki laki,Bekerja,6,Tinggi,Sering,Sering,Ya,Ya
+328,Laki laki,Pelajar,6,Rendah,Sering,Sering,Ya,Ya
+329,Perempuan,Pelajar,12,Rendah,Tidak,Sering,Tidak,Ya
+330,Perempuan,Pelajar,4,Sedang,Sering,Sering,Ya,Ya
+331,Laki laki,Mahasiswa,3,Sedang,Sering,Sering,Ya,Ya
+332,Perempuan,Mahasiswa,3,Tinggi,Sering,Tidak,Ya,Ya
+333,Laki laki,Mahasiswa,14,Tinggi,Tidak,Sering,Ya,Ya
+334,Laki laki,Bekerja,10,Tinggi,Tidak,Sering,Ya,Ya
+335,Laki laki,Mahasiswa,3,Tinggi,Sering,Sering,Tidak,Ya
+336,Perempuan,Mahasiswa,9,Tinggi,Sering,Terkadang,Ya,Tidak
+337,Perempuan,Mahasiswa,2,Tinggi,Sering,Sering,Ya,Ya
+338,Perempuan,Mahasiswa,3,Tinggi,Sering,Sering,Ya,Ya
+339,Perempuan,Mahasiswa,5,Tinggi,Terkadang,Sering,Ya,Ya
+340,Laki laki,Pelajar,1,Tinggi,Sering,Sering,Ya,Ya
+341,Laki laki,Pelajar,1,Tinggi,Sering,Terkadang,Ya,Ya
+342,Perempuan,Mahasiswa,5,Sedang,Sering,Sering,Ya,Ya
+343,Perempuan,Pelajar,10,Tinggi,Tidak,Terkadang,Ya,Tidak
+344,Laki laki,Mahasiswa,11,Tinggi,Sering,Sering,Ya,Ya
+345,Laki laki,Pelajar,14,Sedang,Sering,Terkadang,Tidak,Ya
+346,Perempuan,Bekerja,1,Tinggi,Sering,Sering,Ya,Ya
+347,Laki laki,Bekerja,8,Tinggi,Sering,Terkadang,Ya,Ya
+348,Perempuan,Bekerja,6,Tinggi,Sering,Sering,Ya,Ya
+349,Laki laki,Mahasiswa,2,Sedang,Sering,Sering,Ya,Ya
+350,Laki laki,Pelajar,8,Sedang,Sering,Sering,Ya,Ya
+351,Perempuan,Pelajar,14,Rendah,Sering,Sering,Ya,Tidak
+352,Perempuan,Pelajar,14,Tinggi,Sering,Sering,Ya,Ya
+353,Laki laki,Mahasiswa,6,Rendah,Sering,Sering,Tidak,Ya
+354,Laki laki,Mahasiswa,3,Tinggi,Sering,Sering,Ya,Ya
+355,Laki laki,Pelajar,13,Rendah,Sering,Sering,Ya,Ya
+356,Laki laki,Mahasiswa,6,Sedang,Sering,Sering,Ya,Ya
+357,Perempuan,Pelajar,5,Tinggi,Sering,Sering,Ya,Tidak
+358,Laki laki,Mahasiswa,1,Sedang,Terkadang,Terkadang,Ya,Ya
+359,Perempuan,Bekerja,4,Tinggi,Sering,Sering,Ya,Ya
+360,Laki laki,Bekerja,3,Sedang,Sering,Sering,Ya,Ya
+361,Perempuan,Mahasiswa,12,Tinggi,Terkadang,Sering,Ya,Ya
+362,Perempuan,Mahasiswa,9,Tinggi,Sering,Sering,Ya,Ya
+363,Laki laki,Bekerja,11,Sedang,Sering,Sering,Ya,Ya
+364,Laki laki,Mahasiswa,6,Rendah,Sering,Sering,Tidak,Ya
+365,Perempuan,Bekerja,12,Rendah,Sering,Sering,Tidak,Ya
+366,Perempuan,Mahasiswa,10,Tinggi,Sering,Tidak,Ya,Ya
+367,Perempuan,Bekerja,2,Tinggi,Sering,Sering,Ya,Ya
+368,Laki laki,Pelajar,1,Tinggi,Sering,Sering,Ya,Ya
+369,Perempuan,Mahasiswa,14,Tinggi,Sering,Sering,Ya,Ya
+370,Laki laki,Bekerja,6,Rendah,Sering,Terkadang,Ya,Ya
+371,Laki laki,Bekerja,2,Tinggi,Sering,Sering,Tidak,Ya
+372,Perempuan,Mahasiswa,9,Tinggi,Sering,Sering,Ya,Ya
+373,Laki laki,Mahasiswa,8,Tinggi,Sering,Sering,Ya,Ya
+374,Laki laki,Mahasiswa,14,Tinggi,Sering,Sering,Ya,Ya
+375,Perempuan,Mahasiswa,10,Tinggi,Sering,Sering,Ya,Ya
+376,Perempuan,Bekerja,1,Tinggi,Sering,Sering,Ya,Ya
+377,Perempuan,Mahasiswa,8,Tinggi,Sering,Sering,Ya,Ya
+378,Perempuan,Pelajar,13,Rendah,Sering,Tidak,Ya,Ya
+379,Laki laki,Mahasiswa,2,Sedang,Sering,Sering,Ya,Ya
+380,Perempuan,Pelajar,11,Tinggi,Sering,Terkadang,Ya,Ya
+381,Perempuan,Pelajar,3,Rendah,Sering,Terkadang,Ya,Ya
+382,Perempuan,Mahasiswa,14,Rendah,Sering,Sering,Ya,Ya
+383,Perempuan,Mahasiswa,12,Tinggi,Terkadang,Sering,Ya,Ya
+384,Perempuan,Mahasiswa,11,Tinggi,Sering,Sering,Tidak,Ya
+385,Laki laki,Bekerja,6,Tinggi,Sering,Terkadang,Ya,Ya
+386,Perempuan,Bekerja,8,Tinggi,Sering,Terkadang,Ya,Ya
+387,Perempuan,Mahasiswa,8,Tinggi,Sering,Sering,Ya,Ya
+388,Perempuan,Bekerja,8,Tinggi,Sering,Terkadang,Ya,Ya
+389,Laki laki,Mahasiswa,11,Tinggi,Sering,Sering,Ya,Ya
+390,Perempuan,Mahasiswa,5,Tinggi,Sering,Terkadang,Ya,Ya
+391,Perempuan,Mahasiswa,7,Sedang,Sering,Terkadang,Ya,Ya
+392,Perempuan,Bekerja,5,Rendah,Sering,Sering,Ya,Ya
+393,Perempuan,Mahasiswa,13,Tinggi,Sering,Sering,Ya,Ya
+394,Laki laki,Mahasiswa,9,Tinggi,Sering,Terkadang,Tidak,Ya
+395,Perempuan,Mahasiswa,13,Tinggi,Sering,Terkadang,Ya,Ya
+396,Perempuan,Mahasiswa,6,Tinggi,Tidak,Sering,Ya,Ya
+397,Perempuan,Mahasiswa,8,Tinggi,Sering,Sering,Ya,Ya
+398,Laki laki,Mahasiswa,14,Tinggi,Tidak,Sering,Ya,Ya
+399,Perempuan,Mahasiswa,5,Tinggi,Terkadang,Sering,Ya,Ya
+400,Perempuan,Pelajar,2,Rendah,Sering,Sering,Ya,Tidak
+401,Perempuan,Bekerja,12,Rendah,Sering,Sering,Ya,Ya
+402,Laki laki,Pelajar,8,Tinggi,Sering,Sering,Tidak,Ya
+403,Perempuan,Mahasiswa,9,Tinggi,Sering,Terkadang,Ya,Ya
+404,Perempuan,Mahasiswa,4,Sedang,Terkadang,Terkadang,Ya,Tidak
+405,Laki laki,Bekerja,3,Tinggi,Sering,Sering,Ya,Ya
+406,Laki laki,Mahasiswa,1,Sedang,Sering,Sering,Ya,Ya
+407,Perempuan,Mahasiswa,4,Tinggi,Sering,Sering,Ya,Ya
+408,Perempuan,Mahasiswa,2,Tinggi,Sering,Sering,Ya,Ya
+409,Laki laki,Mahasiswa,12,Sedang,Tidak,Tidak,Ya,Ya
+410,Perempuan,Mahasiswa,6,Tinggi,Sering,Sering,Ya,Ya
+411,Perempuan,Mahasiswa,6,Tinggi,Sering,Sering,Ya,Ya
+412,Perempuan,Mahasiswa,9,Tinggi,Sering,Sering,Ya,Ya
+413,Perempuan,Mahasiswa,13,Tinggi,Sering,Sering,Ya,Ya
+414,Perempuan,Mahasiswa,3,Tinggi,Sering,Sering,Ya,Ya
+415,Perempuan,Bekerja,2,Tinggi,Sering,Terkadang,Ya,Ya
+416,Laki laki,Pelajar,10,Sedang,Sering,Sering,Ya,Ya
+417,Perempuan,Mahasiswa,2,Rendah,Sering,Sering,Ya,Ya
+418,Laki laki,Mahasiswa,7,Tinggi,Sering,Sering,Ya,Ya
+419,Laki laki,Mahasiswa,2,Sedang,Sering,Sering,Ya,Ya
+420,Perempuan,Bekerja,7,Tinggi,Sering,Terkadang,Ya,Ya
+421,Laki laki,Bekerja,3,Tinggi,Sering,Terkadang,Ya,Ya
+422,Perempuan,Bekerja,4,Sedang,Sering,Sering,Ya,Tidak
+423,Laki laki,Bekerja,2,Tinggi,Terkadang,Sering,Ya,Tidak
+424,Perempuan,Mahasiswa,10,Tinggi,Sering,Sering,Ya,Ya
+425,Laki laki,Pelajar,4,Sedang,Sering,Sering,Tidak,Ya
+426,Laki laki,Bekerja,10,Sedang,Sering,Sering,Ya,Ya
+427,Laki laki,Mahasiswa,8,Sedang,Sering,Terkadang,Ya,Ya
+428,Perempuan,Pelajar,2,Tinggi,Sering,Tidak,Ya,Ya
+429,Perempuan,Bekerja,1,Sedang,Sering,Terkadang,Ya,Ya
+430,Laki laki,Mahasiswa,7,Tinggi,Sering,Sering,Ya,Ya
+431,Perempuan,Mahasiswa,3,Tinggi,Sering,Sering,Ya,Ya
+432,Perempuan,Bekerja,7,Tinggi,Terkadang,Sering,Tidak,Ya
+433,Perempuan,Pelajar,1,Sedang,Sering,Sering,Ya,Ya
+434,Laki laki,Bekerja,6,Sedang,Sering,Sering,Ya,Tidak
+435,Laki laki,Pelajar,6,Rendah,Sering,Sering,Ya,Ya
+436,Laki laki,Mahasiswa,12,Tinggi,Sering,Tidak,Tidak,Ya
+437,Laki laki,Mahasiswa,12,Tinggi,Sering,Sering,Ya,Ya
+438,Perempuan,Bekerja,1,Sedang,Sering,Sering,Ya,Ya
+439,Laki laki,Pelajar,8,Rendah,Sering,Terkadang,Ya,Ya
+440,Laki laki,Mahasiswa,13,Sedang,Sering,Sering,Ya,Ya
+441,Perempuan,Bekerja,4,Tinggi,Sering,Sering,Ya,Ya
+442,Laki laki,Mahasiswa,7,Sedang,Tidak,Sering,Ya,Ya
+443,Perempuan,Bekerja,12,Tinggi,Sering,Terkadang,Ya,Ya
+444,Perempuan,Pelajar,2,Rendah,Terkadang,Sering,Ya,Ya
+445,Perempuan,Pelajar,3,Tinggi,Sering,Terkadang,Ya,Ya
+446,Laki laki,Pelajar,5,Tinggi,Sering,Sering,Ya,Ya
+447,Laki laki,Bekerja,3,Tinggi,Sering,Terkadang,Tidak,Ya
+448,Perempuan,Mahasiswa,12,Sedang,Sering,Sering,Ya,Ya
+449,Perempuan,Bekerja,10,Rendah,Sering,Sering,Ya,Ya
+450,Perempuan,Bekerja,8,Sedang,Sering,Terkadang,Ya,Ya
+451,Perempuan,Mahasiswa,10,Tinggi,Tidak,Terkadang,Ya,Ya
+452,Perempuan,Bekerja,6,Sedang,Sering,Sering,Tidak,Ya
+453,Perempuan,Bekerja,8,Tinggi,Sering,Sering,Ya,Ya
+454,Laki laki,Bekerja,12,Tinggi,Sering,Terkadang,Ya,Ya
+455,Laki laki,Bekerja,14,Tinggi,Sering,Sering,Tidak,Ya
+456,Laki laki,Bekerja,11,Tinggi,Sering,Sering,Ya,Ya
+457,Perempuan,Bekerja,3,Sedang,Sering,Sering,Ya,Ya
+458,Perempuan,Pelajar,14,Rendah,Sering,Sering,Ya,Tidak
+459,Perempuan,Bekerja,10,Sedang,Sering,Sering,Tidak,Ya
+460,Perempuan,Mahasiswa,14,Tinggi,Sering,Terkadang,Ya,Ya
+461,Perempuan,Mahasiswa,5,Tinggi,Sering,Sering,Ya,Ya
+462,Laki laki,Mahasiswa,6,Sedang,Sering,Sering,Ya,Tidak
+463,Perempuan,Bekerja,3,Tinggi,Sering,Terkadang,Ya,Ya
+464,Laki laki,Mahasiswa,14,Tinggi,Sering,Sering,Ya,Ya
+465,Laki laki,Pelajar,7,Tinggi,Sering,Sering,Ya,Ya
+466,Perempuan,Bekerja,8,Sedang,Sering,Terkadang,Ya,Ya
+467,Perempuan,Pelajar,7,Tinggi,Sering,Tidak,Ya,Ya
+468,Perempuan,Bekerja,12,Tinggi,Tidak,Sering,Ya,Ya
+469,Laki laki,Pelajar,6,Sedang,Tidak,Terkadang,Ya,Ya
+470,Perempuan,Mahasiswa,10,Tinggi,Sering,Sering,Ya,Ya
+471,Perempuan,Mahasiswa,4,Sedang,Sering,Sering,Ya,Ya
+472,Perempuan,Mahasiswa,8,Tinggi,Sering,Sering,Ya,Ya
+473,Laki laki,Bekerja,6,Tinggi,Sering,Sering,Ya,Ya
+474,Perempuan,Mahasiswa,1,Tinggi,Sering,Terkadang,Ya,Ya
+475,Perempuan,Mahasiswa,11,Tinggi,Sering,Sering,Ya,Ya
+476,Laki laki,Mahasiswa,3,Tinggi,Sering,Sering,Ya,Ya
+477,Laki laki,Mahasiswa,3,Tinggi,Sering,Terkadang,Ya,Ya
+478,Perempuan,Bekerja,14,Sedang,Sering,Tidak,Ya,Ya
+479,Perempuan,Mahasiswa,7,Tinggi,Sering,Sering,Ya,Ya
+480,Laki laki,Mahasiswa,10,Sedang,Sering,Sering,Ya,Ya
+481,Laki laki,Bekerja,13,Tinggi,Sering,Sering,Ya,Tidak
+482,Laki laki,Bekerja,2,Tinggi,Sering,Terkadang,Ya,Tidak
+483,Laki laki,Mahasiswa,5,Tinggi,Sering,Terkadang,Ya,Ya
+484,Perempuan,Pelajar,11,Tinggi,Sering,Sering,Ya,Ya
+485,Perempuan,Bekerja,9,Tinggi,Sering,Sering,Ya,Tidak
+486,Perempuan,Mahasiswa,4,Tinggi,Sering,Terkadang,Ya,Ya
+487,Laki laki,Bekerja,3,Tinggi,Sering,Tidak,Ya,Ya
+488,Laki laki,Pelajar,5,Tinggi,Terkadang,Terkadang,Tidak,Ya
+489,Laki laki,Mahasiswa,2,Tinggi,Sering,Sering,Ya,Ya
+490,Laki laki,Mahasiswa,12,Tinggi,Sering,Terkadang,Ya,Ya
+491,Laki laki,Mahasiswa,8,Rendah,Sering,Sering,Ya,Ya
+492,Perempuan,Bekerja,5,Tinggi,Sering,Sering,Ya,Ya
+493,Perempuan,Mahasiswa,9,Tinggi,Sering,Terkadang,Ya,Ya
+494,Laki laki,Pelajar,6,Tinggi,Sering,Terkadang,Ya,Ya
+495,Laki laki,Mahasiswa,11,Sedang,Sering,Sering,Ya,Ya
+496,Laki laki,Bekerja,4,Sedang,Sering,Sering,Ya,Ya
+497,Perempuan,Mahasiswa,7,Tinggi,Sering,Sering,Ya,Ya
+498,Laki laki,Mahasiswa,10,Tinggi,Terkadang,Terkadang,Ya,Tidak
+499,Perempuan,Bekerja,14,Sedang,Sering,Sering,Tidak,Ya
+500,Laki laki,Mahasiswa,9,Tinggi,Sering,Sering,Ya,Tidak
+501,Laki laki,Pelajar,11,Rendah,Sering,Sering,Tidak,Ya
+502,Perempuan,Bekerja,10,Tinggi,Sering,Terkadang,Ya,Tidak
+503,Perempuan,Mahasiswa,11,Tinggi,Sering,Terkadang,Ya,Ya
+504,Perempuan,Pelajar,1,Sedang,Sering,Sering,Ya,Tidak
+505,Laki laki,Pelajar,2,Sedang,Sering,Terkadang,Ya,Ya
+506,Laki laki,Pelajar,9,Sedang,Sering,Sering,Ya,Ya
+507,Perempuan,Mahasiswa,11,Tinggi,Sering,Sering,Ya,Ya
+508,Laki laki,Mahasiswa,6,Sedang,Sering,Sering,Ya,Ya
+509,Perempuan,Mahasiswa,5,Tinggi,Sering,Sering,Ya,Ya
+510,Perempuan,Pelajar,7,Tinggi,Tidak,Sering,Ya,Ya
