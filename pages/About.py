@@ -37,27 +37,34 @@ def app():
 
     agg_func = st.selectbox('Select aggregation function', ['sum', 'mean', 'max', 'min'])
     # Select plot dimensions
-    plot_width = st.number_input('Plot width (inches)', min_value=1, max_value=100, value=8)
-    plot_height = st.number_input('Plot height (inches)', min_value=1, max_value=100, value=6)
+    #plot_width = st.number_input('Plot width (inches)', min_value=1, max_value=100, value=8)
+    #plot_height = st.number_input('Plot height (inches)', min_value=1, max_value=100, value=30)
 
     # Aggregate the DataFrame
     if x_axis and y_axis:
-        if agg_func == 'sum':
-            aggregated_df = df.groupby(x_axis)[y_axis].sum().reset_index()
-        elif agg_func == 'mean':
-            aggregated_df = df.groupby(x_axis)[y_axis].mean().reset_index()
-        elif agg_func == 'max':
-            aggregated_df = df.groupby(x_axis)[y_axis].max().reset_index()
-        elif agg_func == 'min':
-            aggregated_df = df.groupby(x_axis)[y_axis].min().reset_index()
+        #if agg_func == 'sum':
+        #    aggregated_df = df.groupby(x_axis)[y_axis].sum().reset_index()
+        #elif agg_func == 'mean':
+        #    aggregated_df = df.groupby(x_axis)[y_axis].mean().reset_index()
+        #elif agg_func == 'max':
+        #    aggregated_df = df.groupby(x_axis)[y_axis].max().reset_index()
+        #elif agg_func == 'min':
+         #   aggregated_df = df.groupby(x_axis)[y_axis].min().reset_index()
 
         # Plotting
-        fig, ax = plt.subplots(figsize=(plot_width, plot_height))
-        ax.bar(aggregated_df[x_axis], aggregated_df[y_axis])
-        ax.set_xlabel(x_axis)
-        ax.set_ylabel(f'{agg_func.capitalize()} of {y_axis}')
-        ax.set_title(f'{agg_func.capitalize()} of {y_axis} by {x_axis}')
-        st.pyplot(fig)
+        value_counts = df[x_axis].value_counts()
+
+        # Display value counts as a bar plot in Streamlit
+        st.bar_chart(value_counts,x_label=x_axis, y_label=y_axis)
+        #fig, ax = plt.subplots(figsize=(plot_width, plot_height))
+        #fig, ax = plt.subplots()
+        #ax.bar(aggregated_df[x_axis], aggregated_df[y_axis])
+        #ax.bar(aggregated_df[x_axis], aggregated_df[y_axis])
+        #ax.set_xlabel(x_axis)
+        #ax.set_ylabel(f'{agg_func.capitalize()} of {y_axis}')
+        #ax.set_title(f'{agg_func.capitalize()} of {y_axis} by {x_axis}')
+        #st.pyplot(fig)
+        #st.bar_chart(aggregated_df[x_axis], aggregated_df[y_axis])
         #st.bokeh_chart(fig)
 
 app() 
